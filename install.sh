@@ -22,6 +22,9 @@ brew cask install hipchat
 brew cask install intellij-idea
 brew cask install sourcetree
 brew cask install livereload
+brew cask install emacs
+brew cask install dash
+brew cask install macvim
 
 # evil
 brew cask install microsoft-office
